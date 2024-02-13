@@ -7,14 +7,17 @@
     </style>
     <script>
           function refreshPic(){
-            /*location.reload();*/
+            location.reload();
+            /*
             var pic = document.getElementsByClassName('pic');
             var picbak=pic[0].src;
             pic[0].src="";
-            pic[0].src=picbak;
+            //setTimeout(function(){pic[0].src=picbak;},2000);
+            pic[0].src=picbak;*/
           }
           window.onload=function(){
           var pic = document.getElementsByClassName("pic");
+            
             if(!confirm("是否已🈵18岁？"))
             {
             pic[0].src = "https://moe.jitsu.top/img/";
