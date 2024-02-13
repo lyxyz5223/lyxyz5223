@@ -2,19 +2,19 @@ body {
             background-color: #f2f2f2;
             color: #333;
             font-family: Arial, sans-serif;
-  transition-duration: 0.5s;
+  transition-duration: 0。5秒;
         }
 
         h1 {
             color: #ff6600;
             text-align: center;
-          transition-duration: 0.5s;
+          transition-duration: 0。5秒;
         }
 
         p {
             font-size: 16px;
-            line-height: 1.5;
-          transition-duration: 0.5s;
+            line-height: 1。5;
+          transition-duration: 0。5秒;
         }
 
         .container {
@@ -23,7 +23,7 @@ body {
             padding: 20px;
             border-radius: 10px;
             border: 1px solid yellow;
-            transition-duration: 0.5s;
+            transition-duration: 0。5秒;
         }
 
         。button {
