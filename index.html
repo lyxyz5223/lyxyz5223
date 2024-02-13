@@ -6,6 +6,13 @@
     <style>
     </style>
     <script>
+          refreshPic(){
+            /*location.reload();*/
+            var pic = document.getElementsByClassName('pic');
+            var picbak=pic[0].src;
+            pic[0].src="";
+            pic[0].src=picbak;
+          }
           window.onload=function(){
           var pic = document.getElementsByClassName("pic");
             if(!confirm("是否已🈵18岁？"))
@@ -23,7 +30,7 @@
     <div class="container">
         <h1>Welcome to Everyday 涩涩!</h1>
         <p>This is a 涩图 view website using others&#39; 涩图 api</p>
-        <button class="button c" onclick="/*location.reload();*/var pic = document.getElementsByClassName('pic');pic[0].src=pic[0].src;">刷新</button>
+        <button class="button c" onclick=refreshPic()>刷新</button>
     </div>
   <img src="" class="pic"/>
 </body>
