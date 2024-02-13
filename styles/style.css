@@ -15,6 +15,7 @@ body {
             font-size: 16px;
             line-height: 1.5;
           transition-duration: 0.5s;
+          text-align: center;
         }
 
         .container {
@@ -27,14 +28,19 @@ body {
         }
 
         .button {
-            display: inline-block;
-            background-color: #ff6600;
-            color: #fff;
-            padding: 10px 20px;
-            text-decoration: none;
-            border-radius: 5px;
-            margin-top: 20px;
+          display: inline-block;
+          background-color: #ff6600;
+          color: #fff;
+          padding: 10px 20px;
+          text-decoration: none;
+          border-radius: 7px;
+          margin-top: 5px;
+          text-align: center;
           transition-duration: 0.5s;
+          margin: 0;
+          position: relative;
+          left: 50%;
+          transform: translate(-50%, 0%);
         }
 
         .button:hover {
