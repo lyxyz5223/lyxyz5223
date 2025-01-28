@@ -7,7 +7,7 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: - **Email**: lyxyz5223@qq.com
 - 
-# Hi, I'm Danmo 👋
+# Hi, I'm LeoLee 👋
 
 I'm a college student at Huazhong University of Science and Technology,studying Software Engineering.I'm passionate about creating innovative apps and solutions. 🚀
 
