@@ -10,9 +10,12 @@
 I'm a college student at Huazhong University of Science and Technology,studying Software Engineering.I'm passionate about creating innovative apps and solutions. 🚀
 
 # Welcome to my website
-![lyxyz5223](https://lyxyz5223.com)
+
+[lyxyz5223](https://lyxyz5223.com)
+
 
 ## GitHub Stats 📊
+
 ![Danmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyxyz5223&show_icons=true&theme=radical)
 
 
